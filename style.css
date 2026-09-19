@@ -50,3 +50,4 @@ footer{background:var(--navy-950);color:#b9c9ce;text-align:center;padding:42px 2
   .menu-tools h2{font-size:2rem}.menu-card{padding:14px}.dish-price{font-size:.98rem}
 }
 @media(max-width:480px){.nav-button,.filter-button{min-height:44px}}
+.filter-bar{flex-wrap:wrap;overflow:visible;scroll-snap-type:none}.filter-button{flex:0 0 auto}
