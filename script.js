@@ -1,7 +1,6 @@
 "use strict";
 
-// Replace this value with the restaurant's real Google review link.
-const GOOGLE_REVIEW_URL = "ADD_GOOGLE_REVIEW_LINK_HERE";
+const GOOGLE_REVIEW_URL = "https://www.google.com/maps/place/Navy+Non-Veg/@21.235343,72.768993,17z/data=!3m1!4b1!4m6!3m5!1s0x3be04d7469ae5e3d:0xdea359fa8c6ed49a!8m2!3d21.235338!4d72.7715679!16s%2Fg%2F11w7nqjf4x?entry=ttu&g_ep=EgoyMDI2MDkxNi4wIKXMDSoASAFQAw%3D%3D";
 
 const categories = [
   { id: "all", label: "All", gu: "બધું" },
